@@ -74,10 +74,6 @@ Watch the project demonstration video here: [YouTube Link](#) <!-- Replace with 
 
 Got an idea or improvement? Contributions are welcome! Fork the repo, improve the code, and create a pull request.
 
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## 📬 Contact
 
 Created by [Vamshi Vardhan Reddy Gaddam](https://github.com/vamshi329) — feel free to reach out!
