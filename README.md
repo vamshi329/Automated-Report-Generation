@@ -59,10 +59,6 @@ python generate_report.py
 
 4. Find the output in the `reports/` folder.
 
-## 📽️ Project Demo
-
-Watch the project demonstration video here: [YouTube Link](#) <!-- Replace with actual link -->
-
 ## 🧠 Use Cases
 
 - Automating business performance reports
